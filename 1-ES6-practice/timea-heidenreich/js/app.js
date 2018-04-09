@@ -36,7 +36,7 @@ function displayPics(){
   }
   console.log(rando);
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `var to `let`.
-  // let rando is declared inside the while loop, it lives in that box, and we tried to log it outside, so it comes back as undefined
+  //let rando is declared inside the while loop, it lives in that box, and we tried to log it outside, so it comes back as undefined
   console.log(viewed)
 
   // To the DOM and beyond!
